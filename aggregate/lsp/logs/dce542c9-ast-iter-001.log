@@ -1,0 +1,7 @@
+[2026-09-14T17:34:52Z] === AST ITERATION 1 START | repo=handlebars-lang/handlebars.js sha=dce542c9 ===
+[2026-09-14T17:34:52Z] [iter=1] PHASE START: ast repo=handlebars-lang/handlebars.js sha=dce542c9
+[2026-09-14T17:34:52Z] [iter=1] Building AST aggregate chunks
+[2026-09-14T17:35:38Z] [iter=1] AST chunks built count=1 triples=546623
+[2026-09-14T17:35:38Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/dce542c9a660048d31f0981ac8a45c08b919bddb/.complete
+[2026-09-14T17:35:38Z] [iter=1] PHASE END: ast elapsed_s=46 elapsed_min=0.8
+[2026-09-14T17:35:38Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
